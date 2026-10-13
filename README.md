@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Logan
 
-<!--
-**loganwalkerdev/loganwalkerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at **West Chester University** (May 2027). Lifelong gamer and completionist: I like beating games, understanding how they work, and figuring out why they're fun. I'll build just about anything that catches my interest, but engines and porting are where I'm currently having the most fun.
 
-Here are some ideas to get you started:
+My latest project is **[Lugaru-Web](https://github.com/loganwalkerdev/lugaru-web)**, which brings Wolfire's open-source game Lugaru to your browser. No download, just click and play: [▶ Play it](https://loganwalkerdev.github.io/lugaru-web/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Technologies I use
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,cs,kotlin,js,html,css,bash,haskell,wasm,godot,unity,gamemakerstudio,git,linux&perline=9)](https://skillicons.dev)
+
+#### Get in touch
+
+📫 [loganwalkerdev@gmail.com](mailto:loganwalkerdev@gmail.com)
