@@ -1,4 +1,4 @@
-### Hi, I'm Logan
+### Hi, I'm Logan!👋
 
 CS student at **West Chester University** (May 2027). Lifelong gamer and completionist: I like beating games, understanding how they work, and figuring out why they're fun. I'll build just about anything that catches my interest, but engines and porting are where I'm currently having the most fun.
 
